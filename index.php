@@ -17,6 +17,7 @@
         height= 40 px
         >
     </h4>
+  
     </header>
     <main class="principal">
             <?php require_once('menu.php'); ?>
